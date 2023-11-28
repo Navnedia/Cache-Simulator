@@ -75,3 +75,13 @@ dkms.conf
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/c,visualstudiocode
+
+
+# Project Compiled Executables
+csim
+tracegen
+test-trans
+
+
+# Other Misc Files
+*.tar

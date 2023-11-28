@@ -1,0 +1,219 @@
+S 0x600aa0,1 miss 
+S 0x7ff000398,8 miss 
+S 0x7ff000390,8 miss 
+S 0x7ff000378,8 miss 
+S 0x7ff000370,8 miss 
+S 0x7ff000384,4 miss 
+L 0x7ff000384,4 hit 
+S 0x7ff000388,4 miss 
+L 0x7ff000388,4 hit 
+L 0x7ff000384,4 hit 
+L 0x7ff000378,8 hit 
+L 0x7ff000388,4 hit 
+L 0x600a20,4 miss eviction 
+S 0x7ff00038c,4 hit 
+L 0x7ff000388,4 hit 
+L 0x7ff000370,8 hit 
+L 0x7ff000384,4 hit 
+L 0x7ff00038c,4 hit 
+S 0x600a60,4 miss eviction 
+M 0x7ff000388,4 hit hit 
+L 0x7ff000388,4 hit 
+L 0x7ff000384,4 hit 
+L 0x7ff000378,8 hit 
+L 0x7ff000388,4 hit 
+L 0x600a24,4 miss eviction 
+S 0x7ff00038c,4 hit 
+L 0x7ff000388,4 hit 
+L 0x7ff000370,8 hit 
+L 0x7ff000384,4 hit 
+L 0x7ff00038c,4 hit 
+S 0x600a70,4 miss eviction 
+M 0x7ff000388,4 hit hit 
+L 0x7ff000388,4 hit 
+L 0x7ff000384,4 hit 
+L 0x7ff000378,8 hit 
+L 0x7ff000388,4 hit 
+L 0x600a28,4 miss 
+S 0x7ff00038c,4 hit 
+L 0x7ff000388,4 hit 
+L 0x7ff000370,8 hit 
+L 0x7ff000384,4 hit 
+L 0x7ff00038c,4 hit 
+S 0x600a80,4 miss eviction 
+M 0x7ff000388,4 hit hit 
+L 0x7ff000388,4 hit 
+L 0x7ff000384,4 hit 
+L 0x7ff000378,8 hit 
+L 0x7ff000388,4 hit 
+L 0x600a2c,4 hit 
+S 0x7ff00038c,4 hit 
+L 0x7ff000388,4 hit 
+L 0x7ff000370,8 hit 
+L 0x7ff000384,4 hit 
+L 0x7ff00038c,4 hit 
+S 0x600a90,4 miss eviction 
+M 0x7ff000388,4 hit hit 
+L 0x7ff000388,4 hit 
+M 0x7ff000384,4 hit hit 
+L 0x7ff000384,4 hit 
+S 0x7ff000388,4 hit 
+L 0x7ff000388,4 hit 
+L 0x7ff000384,4 hit 
+L 0x7ff000378,8 hit 
+L 0x7ff000388,4 hit 
+L 0x600a30,4 miss eviction 
+S 0x7ff00038c,4 hit 
+L 0x7ff000388,4 hit 
+L 0x7ff000370,8 miss eviction 
+L 0x7ff000384,4 hit 
+L 0x7ff00038c,4 hit 
+S 0x600a64,4 miss eviction 
+M 0x7ff000388,4 hit hit 
+L 0x7ff000388,4 hit 
+L 0x7ff000384,4 hit 
+L 0x7ff000378,8 hit 
+L 0x7ff000388,4 hit 
+L 0x600a34,4 hit 
+S 0x7ff00038c,4 hit 
+L 0x7ff000388,4 hit 
+L 0x7ff000370,8 hit 
+L 0x7ff000384,4 hit 
+L 0x7ff00038c,4 hit 
+S 0x600a74,4 miss eviction 
+M 0x7ff000388,4 hit hit 
+L 0x7ff000388,4 hit 
+L 0x7ff000384,4 hit 
+L 0x7ff000378,8 hit 
+L 0x7ff000388,4 hit 
+L 0x600a38,4 miss eviction 
+S 0x7ff00038c,4 hit 
+L 0x7ff000388,4 hit 
+L 0x7ff000370,8 hit 
+L 0x7ff000384,4 hit 
+L 0x7ff00038c,4 hit 
+S 0x600a84,4 miss eviction 
+M 0x7ff000388,4 hit hit 
+L 0x7ff000388,4 hit 
+L 0x7ff000384,4 hit 
+L 0x7ff000378,8 hit 
+L 0x7ff000388,4 hit 
+L 0x600a3c,4 hit 
+S 0x7ff00038c,4 hit 
+L 0x7ff000388,4 hit 
+L 0x7ff000370,8 hit 
+L 0x7ff000384,4 hit 
+L 0x7ff00038c,4 hit 
+S 0x600a94,4 miss eviction 
+M 0x7ff000388,4 hit hit 
+L 0x7ff000388,4 hit 
+M 0x7ff000384,4 hit hit 
+L 0x7ff000384,4 hit 
+S 0x7ff000388,4 hit 
+L 0x7ff000388,4 hit 
+L 0x7ff000384,4 hit 
+L 0x7ff000378,8 hit 
+L 0x7ff000388,4 hit 
+L 0x600a40,4 miss eviction 
+S 0x7ff00038c,4 hit 
+L 0x7ff000388,4 hit 
+L 0x7ff000370,8 hit 
+L 0x7ff000384,4 hit 
+L 0x7ff00038c,4 hit 
+S 0x600a68,4 miss eviction 
+M 0x7ff000388,4 hit hit 
+L 0x7ff000388,4 hit 
+L 0x7ff000384,4 hit 
+L 0x7ff000378,8 hit 
+L 0x7ff000388,4 hit 
+L 0x600a44,4 hit 
+S 0x7ff00038c,4 hit 
+L 0x7ff000388,4 hit 
+L 0x7ff000370,8 hit 
+L 0x7ff000384,4 hit 
+L 0x7ff00038c,4 hit 
+S 0x600a78,4 miss eviction 
+M 0x7ff000388,4 hit hit 
+L 0x7ff000388,4 hit 
+L 0x7ff000384,4 hit 
+L 0x7ff000378,8 hit 
+L 0x7ff000388,4 hit 
+L 0x600a48,4 miss eviction 
+S 0x7ff00038c,4 hit 
+L 0x7ff000388,4 hit 
+L 0x7ff000370,8 hit 
+L 0x7ff000384,4 hit 
+L 0x7ff00038c,4 hit 
+S 0x600a88,4 miss eviction 
+M 0x7ff000388,4 hit hit 
+L 0x7ff000388,4 hit 
+L 0x7ff000384,4 hit 
+L 0x7ff000378,8 hit 
+L 0x7ff000388,4 hit 
+L 0x600a4c,4 miss eviction 
+S 0x7ff00038c,4 hit 
+L 0x7ff000388,4 hit 
+L 0x7ff000370,8 hit 
+L 0x7ff000384,4 hit 
+L 0x7ff00038c,4 hit 
+S 0x600a98,4 miss eviction 
+M 0x7ff000388,4 hit hit 
+L 0x7ff000388,4 hit 
+M 0x7ff000384,4 hit hit 
+L 0x7ff000384,4 hit 
+S 0x7ff000388,4 hit 
+L 0x7ff000388,4 hit 
+L 0x7ff000384,4 hit 
+L 0x7ff000378,8 hit 
+L 0x7ff000388,4 hit 
+L 0x600a50,4 miss eviction 
+S 0x7ff00038c,4 hit 
+L 0x7ff000388,4 hit 
+L 0x7ff000370,8 hit 
+L 0x7ff000384,4 hit 
+L 0x7ff00038c,4 hit 
+S 0x600a6c,4 miss eviction 
+M 0x7ff000388,4 hit hit 
+L 0x7ff000388,4 hit 
+L 0x7ff000384,4 hit 
+L 0x7ff000378,8 hit 
+L 0x7ff000388,4 hit 
+L 0x600a54,4 hit 
+S 0x7ff00038c,4 hit 
+L 0x7ff000388,4 hit 
+L 0x7ff000370,8 hit 
+L 0x7ff000384,4 hit 
+L 0x7ff00038c,4 hit 
+S 0x600a7c,4 miss eviction 
+M 0x7ff000388,4 hit hit 
+L 0x7ff000388,4 hit 
+L 0x7ff000384,4 hit 
+L 0x7ff000378,8 hit 
+L 0x7ff000388,4 hit 
+L 0x600a58,4 miss eviction 
+S 0x7ff00038c,4 hit 
+L 0x7ff000388,4 hit 
+L 0x7ff000370,8 hit 
+L 0x7ff000384,4 hit 
+L 0x7ff00038c,4 hit 
+S 0x600a8c,4 miss eviction 
+M 0x7ff000388,4 hit hit 
+L 0x7ff000388,4 hit 
+L 0x7ff000384,4 hit 
+L 0x7ff000378,8 hit 
+L 0x7ff000388,4 hit 
+L 0x600a5c,4 hit 
+S 0x7ff00038c,4 hit 
+L 0x7ff000388,4 hit 
+L 0x7ff000370,8 hit 
+L 0x7ff000384,4 hit 
+L 0x7ff00038c,4 hit 
+S 0x600a9c,4 miss eviction 
+M 0x7ff000388,4 hit hit 
+L 0x7ff000388,4 hit 
+M 0x7ff000384,4 hit hit 
+L 0x7ff000384,4 hit 
+L 0x7ff000390,8 miss eviction 
+L 0x7ff000398,8 miss eviction 
+L 0x600aa0,1 miss eviction 
+hits:201 misses:37 evictions:29
